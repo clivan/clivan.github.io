@@ -17,42 +17,75 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "clivan",
+        "url": "http://github.com/clivan"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Claudio Iván Esparza Castañeda",
+        "url": "http://linkedin.com/in/claudioi-esparzac"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ciecaludio",
+        "url": "http://twitter.com/ciecaludio"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ciecaludio",
+        "url": "http://instagram.com/ciecaludio"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Robotics",
+      "keywords": [
+        "ROS",
+        "SLAM",
+        "Path planning",
+        "Path tracking"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "keywords": [
+        "OpenCV",
+        "RGB-D",
+        "Objects recognition"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch"
+      ]
+    }
+    {
+      "name": "Control Systems",
+      "keywords": [
+        "Nonlinear Control",
+        "Flat Systems",
+        "Sliding modes",
+        "Optimal Control",
+        "Model Based Control"
+      ]
+    }
+  {
+      "name": "Embedded systems",
       "keywords": [
         "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "AVR",
+        "MSP430",
+        "ARM",
+        "DSP",
+        "FPGA",
+        "DAQ",
+        "PLC",
+        "SCADA"
       ]
     }
   ],
