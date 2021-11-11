@@ -79,13 +79,24 @@
         "OCR",
         "NLP"
       ]
-    }
+    },
     {
       "name": "Computer vision",
       "keywords": [
         "Object recognition",
         "RGB-D",
         "Stereo vision"
+      ]
+    },
+    {
+      "name": "Mechanics",
+      "keywords": [
+        "CAD",
+        "CAM",
+        "CAE",
+        "CNC",
+        "Additive manufacturing",
+        "Welding"
       ]
     }
   ],
