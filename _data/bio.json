@@ -102,7 +102,7 @@
   ],
   "skills": [
     {
-      "name": "Languages,
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C/C++",
@@ -115,7 +115,7 @@
         "CSS"
       ]
     },
-    "name": "Libraries and Frameworks,
+    "name": "Libraries and Frameworks",
       "level": "",
       "keywords": [
         "TensorFlow",
