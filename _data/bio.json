@@ -39,20 +39,36 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Embedded Systems and not so Embedded Systems",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "AVR",
+        "TI MSP430",
+        "ARM",
+        "FPGA",
+        "DAQ",
+        "PLC"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Robotics",
       "keywords": [
+        "SLAM",
+        "Visual Servoing",
+        "Path planning",
+        "Path tracking",
+        "Pose estimation",
+        
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Control Systems",
       "keywords": [
+        "Nonlinear stabilization",
+        "Flat systems",
+        "Sliding modes control",
+        "Optimal control",
+        "Model predictive control"
       ]
     }
   ],
