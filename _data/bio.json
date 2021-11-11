@@ -58,7 +58,7 @@
         "Path planning",
         "Path tracking",
         "Pose estimation",
-        
+        "Visual odometry"
       ]
     },
     {
@@ -69,6 +69,15 @@
         "Sliding modes control",
         "Optimal control",
         "Model predictive control"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "OCR",
+        "NLP"
       ]
     }
   ],
