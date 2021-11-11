@@ -27,7 +27,7 @@
       },
       {
         "network": "twitter",
-        "username": "ciecaludi",
+        "username": "ciecaludio",
         "url": "http://twitter.com/ciecaludio"
       },
       {
@@ -151,10 +151,20 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Instituto Politécnico Nacional, Zacatecas, México",
+      "area": "Mechatronics engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": "3.005",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Universidad Autónoma de Zacatecas, Zacatecas, México",
+      "area": "Technological Innovation",
+      "studyType": "M.S.",
+      "startDate": "2020",
       "endDate": "Present",
       "gpa": "",
       "courses": [
