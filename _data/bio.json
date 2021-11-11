@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "clivan",
+        "url": "http://github.com/clivan"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Claudio Iván Esparza Castañeda",
+        "url": "http://linkedin.com/in/claudioi-esparzac"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ciecaludi",
+        "url": "http://twitter.com/ciecaludio"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ciecaludio",
+        "url": "http://instagram.com/ciecaludio"
       }
     ]
   },
