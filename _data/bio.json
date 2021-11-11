@@ -102,26 +102,49 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages,
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C/C++",
         "Java",
-        "Javascript",
+        "Python",
+        "Fortran",
         "Assembly",
-        "Common Lisp"
+        "VHDL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    "name": "Libraries and Frameworks,
+      "level": "",
+      "keywords": [
+        "TensorFlow",
+        "OpenCV",
+        "OpenGL"
+        "ROS",
+        "PyTorch",
+        "pandas",
+        "Jupyter",
+        "NLTK"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Software and Toolsets",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "Git",
+        "Microsoft Office"
+        "Matlab/Simulink"
+        "LabBIEW",
+        "SolidWorks", 
+        "CATIA",
+        "Fusion 360",
+        "Pspice",
+        "Eagle",
+        "LaTeX"
       ]
     }
   ],
