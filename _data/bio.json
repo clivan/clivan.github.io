@@ -120,7 +120,7 @@
       "keywords": [
         "TensorFlow",
         "OpenCV",
-        "OpenGL"
+        "OpenGL",
         "ROS",
         "PyTorch",
         "pandas",
@@ -136,8 +136,8 @@
         "MacOS",
         "Linux",
         "Git",
-        "Microsoft Office"
-        "Matlab/Simulink"
+        "Microsoft Office",
+        "Matlab/Simulink",
         "LabBIEW",
         "SolidWorks", 
         "CATIA",
