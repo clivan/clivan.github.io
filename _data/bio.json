@@ -5,7 +5,7 @@
     "picture": "https://clivan.github.io/images/Yo.png",
     "email": "claudio.ivan01@gmail.com",
     "phone": "(+52) 492-223-8915",
-    "website": "https://clivan.github.io",
+    "website": "silencioaquemarropa.blogspot.com",
     "summary": "I am studying for a M.S. in Technological Innovation in the Universidad Autónoma de Zacatecas. I expect to graduate in Summer, 2023.",
     "location": {
       "address": "",
@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "Claudio Iván Esparza Castañeda",
         "url": "http://linkedin.com/in/claudioi-esparzac"
+      },
+      {
+        "network": "facebook",
+        "username": "caludioi",
+        "url": "https://www.facebook.com/caludio01"
       },
       {
         "network": "twitter",
@@ -148,6 +153,16 @@
         "LaTeX"
       ]
     }
+  ],
+  "languages": [
+    {
+    "language": "Spanish",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "English",
+    "fluency": "B2, Conversational"
+  },
   ],
   "education": [
     {
