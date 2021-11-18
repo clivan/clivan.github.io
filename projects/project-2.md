@@ -22,6 +22,6 @@ As part of the class (industrial robotics), we computed the forward and inverse 
 The Software-side in this robot was developed using Matlab and LabVIEW, and for this project we only reached the forward and inverse kinematics movements until the close of the class, leaving for the future class attenders the development of further algorithms because the robot is a donation to our school and its students.
 
 Finally, some videos of the robot can be found in the following links:
-- <a href="https://youtu.be/7YXDZKsQddE"><i class="large github icon"></i>Thor 1</a>
-- <a href="https://youtu.be/mhT7l8s1tAY"><i class="large github icon"></i>Thor 2</a>
-- <a href="https://youtu.be/udCfWYFl2Cs"><i class="large github icon"></i>Thor 3</a>.
+- [Thor 1](https://youtu.be/7YXDZKsQddE)
+- [Thor 2](https://youtu.be/mhT7l8s1tAY)
+- [Thor 3](https://youtu.be/udCfWYFl2Cs)
