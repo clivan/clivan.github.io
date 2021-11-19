@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Thor.jpg
+image: images/Thor.jpg
 title: Robot Thor
 permalink: 
 # All dates must be YYYY-MM-DD format!
