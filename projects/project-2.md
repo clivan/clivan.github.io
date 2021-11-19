@@ -13,7 +13,7 @@ labels:
 summary: An implementation of a six degree-of-freedom robotic arm. The project is based on the <a href="https://github.com/AngelLM/Thor"><i class="large github icon"></i>robot Thor</a>.
 ---
 
-<img class="ui medium right floated rounded image" src="https://github.com/AngelLM/Thor/blob/developer/doc/main.jpg">
+<img class="ui medium right floated rounded image" src="../images/Thor.jpg">
 
 A schoolar project was a 6 DOF robotic arm. The project was only about the building, so the design was ommited and instead we took a design from Github, which is a 3d printed bot.
 
